@@ -1,12 +1,13 @@
 {
-  "name": "com.unity.package-base",
+  "name": "com.guanomancer.package-base",
   "version": "0.1.0",
-  "displayName": "Package BAse",
+  "displayName": "Package Base",
   "description": "This is an example package.",
-  "unity": "2019.1",
+  "unity": "2020.3",
   "author": {
     "name": "Guanomancer",
     "email": "arch@guanomancer.com",
     "url": "https://www.guanomancer.com"
-  }
+  },
+  "type": "library"
 }
